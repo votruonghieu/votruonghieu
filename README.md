@@ -1,4 +1,4 @@
-Hi, I'm Truong Hieu = Software Engineer + Youtuber 🌻
+Hi, I'm Truong Hieu = Software Engineer 🌻
 🔭 Passion in something ... (secret😊)
-💪 2021 Goals: Learning many things in Python
-⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+💪 2023 Goals: Learning many things in C++
+⭐: Reading, listening, walking, running.. and blade wind😅
